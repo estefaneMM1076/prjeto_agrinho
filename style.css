@@ -1,1 +1,50 @@
+ <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurante Sustentável - CampCity</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>CampCity</h1>
+        <nav>
+            <a href="#sobre">Sobre Nós</a>
+            <a href="#cardapio">Cardápio</a>
+            <a href="#sustentabilidade">Sustentabilidade</a>
+        </nav>
+    </header>
 
+    <section id="sobre">
+        <h2>Sobre Nós</h2>
+        <p>Bem-vindo ao CampCity, onde a culinária deliciosa encontra a sustentabilidade. Nosso restaurante é dedicado a oferecer pratos feitos com ingredientes frescos e orgânicos, provenientes de produtores locais.</p>
+    </section>
+
+    <section id="cardapio">
+        <h2>Cardápio</h2>
+        <ul>
+            <li>Salada de Quinoa com Legumes Frescos</li>
+            <li>Risoto de Cogumelos Silvestres</li>
+            <li>Hambúrguer de Grão-de-Bico com Molho de Tahine</li>
+            <li>Sopa de Abóbora com Gengibre</li>
+            <li>Bolo de Cenoura com Cobertura de Chocolate Amargo</li>
+        </ul>
+    </section>
+
+    <section id="sustentabilidade">
+        <h2>Princípios de Sustentabilidade</h2>
+        <p>No CampCity, nós acreditamos que a alimentação deve ser saudável para os humanos e para o planeta. Aqui estão alguns dos nossos princípios:</p>
+        <ul>
+            <li>Uso de ingredientes orgânicos e locais</li>
+            <li>Redução de desperdício alimentar</li>
+            <li>Reciclagem e compostagem de resíduos</li>
+            <li>Utilização de embalagens sustentáveis</li>
+        </ul>
+    </section>
+
+    <footer>
+        
+    </footer>
+</body>
+</html>
